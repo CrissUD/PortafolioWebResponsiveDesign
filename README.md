@@ -17,7 +17,7 @@ Dentro del curso se implementan varias características tanto en HTML como en CS
 
 # Resultado
 
-A continuación se muestra el resultado de la plantilla del portafolio usando **Responsive Design**, si quiere ver la pagina por usted mismo puede entrar al siguiente [link](https://crissud.github.io/PortafolioWebPlantilla/portafolio_web/index.html).
+A continuación se muestra el resultado de la plantilla del portafolio usando **Responsive Design**, si quiere ver la pagina por usted mismo puede entrar al [siguiente link](https://crissud.github.io/PortafolioWebPlantilla/portafolio_web/index.html).
 
 ## Version Desktop
 
